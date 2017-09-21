@@ -1,0 +1,2925 @@
+
+
+{
+
+   "properties": {
+
+      "principal": {
+
+         "zpid": "19554460",
+
+         "links": {
+
+            "homedetails": "http://www.zillow.com/homedetails/2063-Xavier-Ct-Santa-Clara-CA-95051/19554460_zpid/",
+
+            "graphsanddata": "http://www.zillow.com/homedetails/2063-Xavier-Ct-Santa-Clara-CA-95051/19554460_zpid/#charts-and-data",
+
+            "mapthishome": "http://www.zillow.com/homes/19554460_zpid/",
+
+            "comparables": "http://www.zillow.com/homes/comps/19554460_zpid/"
+
+         },
+
+         "address": {
+
+            "street": "2063 Xavier Ct",
+
+            "zipcode": "95051",
+
+            "city": "Santa Clara",
+
+            "state": "CA",
+
+            "latitude": "37.360415",
+
+            "longitude": "-121.989785"
+
+         },
+
+         "zestimate": {
+
+            "amount": {
+
+               "@currency": "USD",
+
+               "#text": "1225559"
+
+            },
+
+            "last-updated": "05/31/2015",
+
+            "oneWeekChange": {
+
+               "@deprecated": "true"
+
+            },
+
+            "valueChange": {
+
+               "@duration": "30",
+
+               "@currency": "USD",
+
+               "#text": "31203"
+
+            },
+
+            "valuationRange": {
+
+               "low": {
+
+                  "@currency": "USD",
+
+                  "#text": "1139770"
+
+               },
+
+               "high": {
+
+                  "@currency": "USD",
+
+                  "#text": "1299093"
+
+               }
+
+            },
+
+            "percentile": "91"
+
+         },
+
+         "localRealEstate": {
+
+            "region": {
+
+               "@name": "Santa Clara",
+
+               "@id": "13713",
+
+               "zindexValue": "766,800",
+
+               "links": {
+
+                  "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                  "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                  "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+               }
+
+            }
+
+         }
+
+      },
+
+      "comparables": [
+
+         {
+
+            "@score": "4.0",
+
+            "zpid": "19554809",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/2270-Crocker-Way-Santa-Clara-CA-95051/19554809_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/2270-Crocker-Way-Santa-Clara-CA-95051/19554809_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554809_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554809_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "2270 Crocker Way",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.364437",
+
+               "longitude": "-121.995515"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "1045521"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "21979"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "993245"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1108252"
+
+                  }
+
+               },
+
+               "percentile": "79"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19553664",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/1766-Briarwood-Dr-Santa-Clara-CA-95051/19553664_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/1766-Briarwood-Dr-Santa-Clara-CA-95051/19553664_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19553664_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19553664_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "1766 Briarwood Dr",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.355426",
+
+               "longitude": "-121.993843"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "869562"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "20812"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "826084"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "913040"
+
+                  }
+
+               },
+
+               "percentile": "58"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19553801",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3411-Laguna-Ct-Santa-Clara-CA-95051/19553801_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3411-Laguna-Ct-Santa-Clara-CA-95051/19553801_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19553801_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19553801_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3411 Laguna Ct",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.35714",
+
+               "longitude": "-121.989612"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "971392"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "37421"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "922822"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1019962"
+
+                  }
+
+               },
+
+               "percentile": "73"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19553809",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3426-Laguna-Ct-Santa-Clara-CA-95051/19553809_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3426-Laguna-Ct-Santa-Clara-CA-95051/19553809_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19553809_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19553809_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3426 Laguna Ct",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.356519",
+
+               "longitude": "-121.990073"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "844636"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "33593"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "802404"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "886868"
+
+                  }
+
+               },
+
+               "percentile": "52"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19553895",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3150-James-Ct-Santa-Clara-CA-95051/19553895_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3150-James-Ct-Santa-Clara-CA-95051/19553895_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19553895_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19553895_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3150 James Ct",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.356176",
+
+               "longitude": "-121.984325"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "917487"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "25259"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "871613"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "972536"
+
+                  }
+
+               },
+
+               "percentile": "66"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19553904",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3168-Merced-Ct-Santa-Clara-CA-95051/19553904_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3168-Merced-Ct-Santa-Clara-CA-95051/19553904_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19553904_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19553904_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3168 Merced Ct",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.355492",
+
+               "longitude": "-121.984536"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "926154"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "14942"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "879846"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "972462"
+
+                  }
+
+               },
+
+               "percentile": "67"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "9.0",
+
+            "zpid": "19553909",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3187-Dallas-Ct-Santa-Clara-CA-95051/19553909_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3187-Dallas-Ct-Santa-Clara-CA-95051/19553909_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19553909_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19553909_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3187 Dallas Ct",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.355224",
+
+               "longitude": "-121.984922"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "972446"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "27934"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "923824"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1021068"
+
+                  }
+
+               },
+
+               "percentile": "73"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "11.0",
+
+            "zpid": "19554029",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/1858-Calabazas-Blvd-Santa-Clara-CA-95051/19554029_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/1858-Calabazas-Blvd-Santa-Clara-CA-95051/19554029_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554029_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554029_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "1858 Calabazas Blvd",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.357269",
+
+               "longitude": "-121.984339"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "843432"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "97991"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "792826"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "885604"
+
+                  }
+
+               },
+
+               "percentile": "52"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "3.0",
+
+            "zpid": "19554218",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3436-Bella-Vista-Ave-Santa-Clara-CA-95051/19554218_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3436-Bella-Vista-Ave-Santa-Clara-CA-95051/19554218_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554218_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554218_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3436 Bella Vista Ave",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.357737",
+
+               "longitude": "-121.990994"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "845495"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "34042"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "752491"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "921590"
+
+                  }
+
+               },
+
+               "percentile": "53"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19554227",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3427-Bella-Vista-Ave-Santa-Clara-CA-95051/19554227_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3427-Bella-Vista-Ave-Santa-Clara-CA-95051/19554227_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554227_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554227_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3427 Bella Vista Ave",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.35823",
+
+               "longitude": "-121.990829"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "834782"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "16343"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "793043"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "884869"
+
+                  }
+
+               },
+
+               "percentile": "50"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19554259",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/1971-Santa-Rosa-Ct-Santa-Clara-CA-95051/19554259_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/1971-Santa-Rosa-Ct-Santa-Clara-CA-95051/19554259_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554259_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554259_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "1971 Santa Rosa Ct",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.358737",
+
+               "longitude": "-121.992088"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "859799"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "37278"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "799613"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "911387"
+
+                  }
+
+               },
+
+               "percentile": "56"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "9.0",
+
+            "zpid": "19554325",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/2091-Briarwood-Dr-Santa-Clara-CA-95051/19554325_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/2091-Briarwood-Dr-Santa-Clara-CA-95051/19554325_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554325_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554325_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "2091 Briarwood Dr",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.360525",
+
+               "longitude": "-121.993274"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "984075"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "8968"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "915190"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1062801"
+
+                  }
+
+               },
+
+               "percentile": "74"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "9.0",
+
+            "zpid": "19554394",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3583-Cabrillo-Ave-Santa-Clara-CA-95051/19554394_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3583-Cabrillo-Ave-Santa-Clara-CA-95051/19554394_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554394_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554394_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3583 Cabrillo Ave",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.360123",
+
+               "longitude": "-121.995428"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "871361"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "19443"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "810366"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "967211"
+
+                  }
+
+               },
+
+               "percentile": "58"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19554448",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/2131-Nobili-Ave-Santa-Clara-CA-95051/19554448_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/2131-Nobili-Ave-Santa-Clara-CA-95051/19554448_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554448_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554448_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "2131 Nobili Ave",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.361378",
+
+               "longitude": "-121.99106"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "915592"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "27000"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "869812"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "970528"
+
+                  }
+
+               },
+
+               "percentile": "66"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "5.0",
+
+            "zpid": "19554518",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/2089-Fordham-Dr-Santa-Clara-CA-95051/19554518_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/2089-Fordham-Dr-Santa-Clara-CA-95051/19554518_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554518_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554518_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "2089 Fordham Dr",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.360907",
+
+               "longitude": "-121.98791"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "944104"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "10856"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "896899"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "991309"
+
+                  }
+
+               },
+
+               "percentile": "69"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "6.0",
+
+            "zpid": "19554532",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3371-Cabrillo-Ave-Santa-Clara-CA-95051/19554532_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3371-Cabrillo-Ave-Santa-Clara-CA-95051/19554532_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554532_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554532_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3371 Cabrillo Ave",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.360162",
+
+               "longitude": "-121.988838"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "969176"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "18063"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "920717"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1017635"
+
+                  }
+
+               },
+
+               "percentile": "72"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "7.0",
+
+            "zpid": "19554533",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3375-Cabrillo-Ave-Santa-Clara-CA-95051/19554533_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3375-Cabrillo-Ave-Santa-Clara-CA-95051/19554533_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554533_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554533_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3375 Cabrillo Ave",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.360162",
+
+               "longitude": "-121.989044"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "951070"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "20240"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "903517"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1017645"
+
+                  }
+
+               },
+
+               "percentile": "70"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19554542",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/2199-Fordham-Dr-Santa-Clara-CA-95051/19554542_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/2199-Fordham-Dr-Santa-Clara-CA-95051/19554542_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554542_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554542_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "2199 Fordham Dr",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.362636",
+
+               "longitude": "-121.988462"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "936978"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "18008"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "890129"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "983827"
+
+                  }
+
+               },
+
+               "percentile": "69"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "7.0",
+
+            "zpid": "19554549",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3360-Georgetown-Pl-Santa-Clara-CA-95051/19554549_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3360-Georgetown-Pl-Santa-Clara-CA-95051/19554549_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554549_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554549_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3360 Georgetown Pl",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.363812",
+
+               "longitude": "-121.98863"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "892365"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "18282"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "847747"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "945907"
+
+                  }
+
+               },
+
+               "percentile": "62"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "7.0",
+
+            "zpid": "19554606",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/2261-Nobili-Ave-Santa-Clara-CA-95051/19554606_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/2261-Nobili-Ave-Santa-Clara-CA-95051/19554606_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554606_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554606_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "2261 Nobili Ave",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.363945",
+
+               "longitude": "-121.992045"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "990316"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "19460"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "920994"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1069541"
+
+                  }
+
+               },
+
+               "percentile": "75"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "4.0",
+
+            "zpid": "19554630",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3423-Georgetown-Pl-Santa-Clara-CA-95051/19554630_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3423-Georgetown-Pl-Santa-Clara-CA-95051/19554630_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554630_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554630_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3423 Georgetown Pl",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.364162",
+
+               "longitude": "-121.990607"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "859748"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "5881"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "808163"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "937125"
+
+                  }
+
+               },
+
+               "percentile": "56"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "6.0",
+
+            "zpid": "19554632",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3443-Georgetown-Pl-Santa-Clara-CA-95051/19554632_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3443-Georgetown-Pl-Santa-Clara-CA-95051/19554632_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554632_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554632_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3443 Georgetown Pl",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.364159",
+
+               "longitude": "-121.99102"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "990851"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "28758"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "941308"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1040394"
+
+                  }
+
+               },
+
+               "percentile": "75"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "5.0",
+
+            "zpid": "19554656",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3369-Creighton-Pl-Santa-Clara-CA-95051/19554656_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3369-Creighton-Pl-Santa-Clara-CA-95051/19554656_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554656_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554656_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3369 Creighton Pl",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.362766",
+
+               "longitude": "-121.989416"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "955573"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "21465"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "907794"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1003352"
+
+                  }
+
+               },
+
+               "percentile": "71"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "5.0",
+
+            "zpid": "19554675",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3381-Gonzaga-Pl-Santa-Clara-CA-95051/19554675_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3381-Gonzaga-Pl-Santa-Clara-CA-95051/19554675_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554675_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554675_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3381 Gonzaga Pl",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.363473",
+
+               "longitude": "-121.989747"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "1004056"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "19809"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "953853"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "1054259"
+
+                  }
+
+               },
+
+               "percentile": "76"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "@score": "8.0",
+
+            "zpid": "19554722",
+
+            "links": {
+
+               "homedetails": "http://www.zillow.com/homedetails/3463-Earl-Dr-Santa-Clara-CA-95051/19554722_zpid/",
+
+               "graphsanddata": "http://www.zillow.com/homedetails/3463-Earl-Dr-Santa-Clara-CA-95051/19554722_zpid/#charts-and-data",
+
+               "mapthishome": "http://www.zillow.com/homes/19554722_zpid/",
+
+               "comparables": "http://www.zillow.com/homes/comps/19554722_zpid/"
+
+            },
+
+            "address": {
+
+               "street": "3463 Earl Dr",
+
+               "zipcode": "95051",
+
+               "city": "Santa Clara",
+
+               "state": "CA",
+
+               "latitude": "37.362851",
+
+               "longitude": "-121.992595"
+
+            },
+
+            "zestimate": {
+
+               "amount": {
+
+                  "@currency": "USD",
+
+                  "#text": "883635"
+
+               },
+
+               "last-updated": "05/31/2015",
+
+               "oneWeekChange": {
+
+                  "@deprecated": "true"
+
+               },
+
+               "valueChange": {
+
+                  "@duration": "30",
+
+                  "@currency": "USD",
+
+                  "#text": "17725"
+
+               },
+
+               "valuationRange": {
+
+                  "low": {
+
+                     "@currency": "USD",
+
+                     "#text": "839453"
+
+                  },
+
+                  "high": {
+
+                     "@currency": "USD",
+
+                     "#text": "936653"
+
+                  }
+
+               },
+
+               "percentile": "60"
+
+            },
+
+            "localRealEstate": {
+
+               "region": {
+
+                  "@name": "Santa Clara",
+
+                  "@id": "13713",
+
+                  "zindexValue": "766,800",
+
+                  "links": {
+
+                     "overview": "http://www.zillow.com/local-info/CA-Santa-Clara/r_13713/",
+
+                     "forSaleByOwner": "http://www.zillow.com/santa-clara-ca/fsbo/",
+
+                     "forSale": "http://www.zillow.com/santa-clara-ca/"
+
+                  }
+
+               }
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}
+
+

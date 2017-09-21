@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+</style>
+</head>
+<body>
+
+<div class="container-fluid">
+<h1>Bootstrap sample display</h1>
+<div class="panel panel-default">
+  <div class="panel-heading">Panel Heading</div>
+  <div class="panel-body">
+  <ul class="nav nav-tabs">
+  <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
+  <li><a data-toggle="tab" href="#javascript">Javascript</a></li>
+  <li><a data-toggle="tab" href="#css">CSS</a></li>
+  <li><a data-toggle="tab" href="#bs">Bootstrap</a></li>
+  </ul>
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+    <h3>HOME</h3>
+    <p>Home page.</p>
+    </div>
+    <div id="javascript" class="tab-pane fade">
+    <h3>Javascript</h3>
+    <p>Javascript examples.</p>
+    </div>
+    <div id="css" class="tab-pane fade">
+    <h3>CSS</h3>
+    <p>CSS examples.</p>
+    </div>
+    <div id="bs" class="tab-pane fade">
+    <h3>Bootstrap</h3>
+    <p>Bootstrap examples</p>
+
+    <div class="row equal">
+    <div class="col-sm-3" style="background-color:lavenderblush;">
+ 	<div class="dropdown">
+  	<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Dropdown Example
+  	<span class="caret"></span></button>
+  	<ul class="dropdown-menu">
+    	  <li><a href="#">BS Bottons</a></li>
+    	  <li><a href="#">BS List Groups</a></li>
+    	  <li><a href="#">BS Forms</a></li>
+	  <li class="divider"></li>
+      	  <li><a href="#">About Us</a></li>
+  	</ul>
+	</div> 
+    </div>
+
+
+    <div class="col-sm-3" style="background-color:lavender;">long text example
+		<pre> this is a much <br>taller column</pre></div>
+    <div class="col-sm-3" style="background-color:lavenderblush;">Table example
+	<div>
+	<table class="table">
+	  <thead>
+	    <tr>
+	      <th>First Name</th>
+	      <th>Last Name</th>
+	      <th>Email</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>Stephen</td>
+	      <td>King</td>
+	      <td>n/a</td>
+	    </tr>
+	    <tr>
+	      <td>George</td>
+	      <td>Orwell</td>
+	      <td>n/a</td>
+	    </tr>
+	  </tbody>
+	</table>
+	</div>
+    </div>
+	
+    <div class="col-sm-3" style="background-color:lavender;">Accordion example
+
+ 	<div class="panel-group" id="accordion">
+  	  <div class="panel panel-default">
+    	    <div class="panel-heading">
+      		<h4 class="panel-title">
+        	  <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+        	  Collapsible Group 1</a>
+      		</h4>
+    	    </div>
+    	  <div id="collapse1" class="panel-collapse collapse in">
+      	    <div class="panel-body">No. One....</div>
+    	  </div>
+  	</div>
+  	<div class="panel panel-default">
+    	  <div class="panel-heading">
+      	    <h4 class="panel-title">
+        	<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+        	Collapsible Group 2</a>
+      	    </h4>
+    	  </div>
+    	  <div id="collapse2" class="panel-collapse collapse">
+          <div class="panel-body">No. Two.....</div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+    	<div class="panel-heading">
+      	  <h4 class="panel-title">
+        	<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+        	Collapsible Group 3</a>
+      	  </h4>
+    	</div>
+    	<div id="collapse3" class="panel-collapse collapse">
+      <div class="panel-body">No. Three...</div>
+    </div>
+  </div>
+</div> 
+
+
+    </div>
+    </div>
+
+    </div>
+  </div>
+
+  </div>
+
+<div class="panel-footer">Panel Footer</div>
+</div>
+
+</body>
+</html></html>

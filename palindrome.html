@@ -1,0 +1,39 @@
+<html>
+<body>
+<script
+  src="https://code.jquery.com/jquery-3.2.1.js"
+  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+  crossorigin="anonymous"></script>
+</body>
+
+<script>
+$(document).ready(function() {
+
+	$(document.body).append('<input id="textField"/>').append('<button id="button">Is Palindrome</button>').append('<div id="demo"></div>')
+ 	$("#button").on("click", function() {
+  	isPalindrome($("#textField").val())
+  })
+})
+
+function isPalindrome(x){
+  var yy ='';
+  var n = x.length;
+  var i = 0;
+  console.log("n=="+n);
+
+  while( (x.charAt(i) == x.charAt(n-i-1)) && (i<n/2)) {
+      console.log("x.charAt("+i+")=="+x.charAt(i));
+      console.log("x.charAt("+(n-i)+")=="+x.charAt(n-i-1));
+      i++;
+  }
+
+  console.log("end of for while, i==="+i);
+  if(i>=n/2)
+      yy = x + " is Palindrome.";
+  else
+      yy = x + " is NOT Palindrome.";
+  $("#demo").text(yy);
+}
+</script>
+</body>
+</html>
